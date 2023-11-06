@@ -33,3 +33,5 @@ This Java program implements a custom String sorting algorithm that sorts two ar
 ## Output Format
 
 - The program will display the sorted Strings based on the specified rules.
+
+<img width="505" alt="Screenshot 2023-11-06 at 23 00 03" src="https://github.com/sarparslan/Lexicographic-Distance-Sort/assets/96438389/5d271947-bb63-41e2-a970-74a5b1d76e30">
